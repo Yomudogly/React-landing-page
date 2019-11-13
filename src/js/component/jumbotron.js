@@ -3,7 +3,7 @@ import React from "react";
 //create your first component
 export const Jumbotron = props => {
 	return (
-		<div className="jumbotron mt-4">
+		<div className="jumbotron mt-4 mb-0">
 			<h1 className="display-4">A Warm Welcome!</h1>
 			<p className="lead">
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa,
